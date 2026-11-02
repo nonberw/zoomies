@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.egg-info/
+build/
+MUJOCO_LOG.TXT
+assets/_*
+checkpoints/*_train.txt
+checkpoints/smoke/
