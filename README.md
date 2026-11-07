@@ -1,5 +1,10 @@
 # ZOOMIES
 
+[![tests](https://github.com/nonberw/zoomies/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/nonberw/zoomies/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](requirements.txt)
+[![MuJoCo](https://img.shields.io/badge/physics-MuJoCo-0b7285.svg)](https://mujoco.org)
+
 > A four-legged robot I designed, a reinforcement learning algorithm I wrote from scratch, and 1024 copies of the robot falling over in parallel until they stop falling over.
 > Twenty minutes later it walks, turns, strafes, and takes a kick without eating the floor.
 
